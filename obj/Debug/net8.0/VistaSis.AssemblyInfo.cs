@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VistaSis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d056643d1291c32c36008b3119b593aab8af9205")]
 [assembly: System.Reflection.AssemblyProductAttribute("VistaSis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VistaSis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
